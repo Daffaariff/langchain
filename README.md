@@ -1,0 +1,1 @@
+conda create -p <envname> -y
